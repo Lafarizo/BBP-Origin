@@ -1,6 +1,6 @@
 <?php 
 
-	$username = "root";
+    $username = "root";
     $password = "";
     $database = "beligo_db";
     $hostname = "localhost";
